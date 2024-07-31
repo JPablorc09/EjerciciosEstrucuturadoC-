@@ -1,0 +1,7 @@
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.pdb
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.AssemblyReference.cache
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.exe
+D:\Ejercicios c#\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.pdb
