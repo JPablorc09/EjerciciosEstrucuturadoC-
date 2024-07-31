@@ -1,0 +1,7 @@
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.AssemblyReference.cache
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.exe
+D:\Ejercicios c#\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb
