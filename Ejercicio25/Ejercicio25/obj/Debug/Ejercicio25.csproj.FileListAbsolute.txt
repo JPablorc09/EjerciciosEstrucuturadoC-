@@ -1,0 +1,7 @@
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.csproj.AssemblyReference.cache
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.csproj.CoreCompileInputs.cache
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\bin\Debug\Ejercicio25.exe.config
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\bin\Debug\Ejercicio25.exe
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\bin\Debug\Ejercicio25.pdb
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.exe
+D:\Ejercicios c#\Ejercicio25\Ejercicio25\obj\Debug\Ejercicio25.pdb
