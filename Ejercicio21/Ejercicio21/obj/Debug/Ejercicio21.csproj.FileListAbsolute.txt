@@ -1,0 +1,7 @@
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.pdb
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.AssemblyReference.cache
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.CoreCompileInputs.cache
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.exe
+D:\Ejercicios c#\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.pdb
