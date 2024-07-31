@@ -1,0 +1,7 @@
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.AssemblyReference.cache
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+D:\Ejercicios c#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb
