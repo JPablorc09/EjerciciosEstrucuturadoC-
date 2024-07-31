@@ -1,0 +1,2 @@
+# EjerciciosEstrucuturadoC-
+Ejercicios sencillos
