@@ -1,0 +1,7 @@
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.exe.config
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.exe
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.pdb
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.csproj.AssemblyReference.cache
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.csproj.CoreCompileInputs.cache
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.exe
+D:\Ejercicios c#\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.pdb
